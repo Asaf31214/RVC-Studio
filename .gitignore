@@ -13,9 +13,3 @@ __pycache__
 !/logs/mute
 .cache
 *.log
-/.idea/.gitignore
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/RVC-Studio.iml
-/.idea/vcs.xml
